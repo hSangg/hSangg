@@ -39,7 +39,6 @@
   <a href="mailto:hoai.sang050@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cao-sang-b91b19226/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
-### Connect with me:
 
 <!-- Add your social links here -->
 ### Languages and Tools
