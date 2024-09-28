@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/github/followers/hsangg?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
   </a>
   <img src="https://img.shields.io/github/stars/hsangg?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub Stars" />
-  <a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?logo=twitter&style=for-the-badge" alt="Twitter Followers" />
+  <a href="https://www.instagram.com/c.hsang_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Followers" />
   </a>
 </p>
 
@@ -36,9 +36,8 @@
 <p align="center">🌱 I'm currently an intern fullstack developer at Bosch <b>DETOX</b></p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YourLinkedInProfile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://YourPersonalWebsite.com"><img src="https://img.shields.io/badge/-Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="mailto:hoai.sang050@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cao-sang-b91b19226/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 ### Connect with me:
 
