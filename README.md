@@ -1,6 +1,18 @@
-# Hi 👋, I'm Sang
+<h1 align="center">Hi there, I'm Sang 👋</h1>
 
-### A passionate fullstack developer from Viet Nam
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Fullstack+Developer;From+Vietnam+🇻🇳&center=true&width=380&height=45">
+</p>
+
+<p align="center">
+  <a href="https://github.com/hsangg">
+    <img src="https://img.shields.io/github/followers/hsangg?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/hsangg?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub Stars" />
+  <a href="https://twitter.com/YourTwitterHandle">
+    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?logo=twitter&style=for-the-badge" alt="Twitter Followers" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hsangg&label=Profile%20views&color=0e75b6&style=flat" alt="hsangg" />
@@ -8,12 +20,26 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hsangg" alt="hsangg" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hsangg&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="hsangg" />
   </a>
 </p>
 
-- 🌱 I'm currently an intern fullstack developer at Bosch **DETOX**
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hsangg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsangg&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</p>
 
+---
+
+<p align="center">🌱 I'm currently an intern fullstack developer at Bosch <b>DETOX</b></p>
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YourLinkedInProfile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://YourPersonalWebsite.com"><img src="https://img.shields.io/badge/-Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+</p>
 ### Connect with me:
 
 <!-- Add your social links here -->
